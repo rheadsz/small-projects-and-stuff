@@ -1,1 +1,1 @@
-# freezer9.project-Euler
+# My side projects
