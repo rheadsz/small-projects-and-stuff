@@ -1,4 +1,6 @@
-Made for reddit post r/programmerhumour
+Made for reddit post r/programmerhumour. I'm freezer9 from reddit, if you're confused about usernames.
+
+The main code contains in ps.py file
 
     Encripts passwords using hex colors
     Copyright (C) 2017  Joel Benjamin
